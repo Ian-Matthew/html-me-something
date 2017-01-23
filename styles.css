@@ -1,0 +1,32 @@
+html, body{
+    margin: 0px;
+    height: 100%;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: lightsteelblue;
+    
+    
+}
+header{
+    padding: 3em;
+}
+nav ul{
+    display: inline-block;
+    list-style-type: none;
+    
+    
+}
+
+h1{
+    font-size: 55px;
+    color:floralwhite;
+}
+img{
+    max-width: 100%;
+        
+}
+        
+footer{
+    padding: 3em;
+}        
+    
