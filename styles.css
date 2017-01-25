@@ -29,4 +29,15 @@ img{
 footer{
     padding: 3em;
 }        
+
+#question{
+    font-style: italic;
     
+    
+}
+.important{
+    letter-spacing: 5px;
+}
+p.important{
+    color: darkgreen;
+}
